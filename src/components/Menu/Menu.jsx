@@ -59,7 +59,7 @@ function Menu() {
 					iconColor="#7fc7ff"
 					title="GitHub Repository"
 					desc="View or contribute to the project"
-					onClick={() => window.open('https://github.com/iNikAnn/DoHabit', '_blank')}
+					onClick={() => window.open('https://github.com/23csrohit/Habits', '_blank')}
 					link
 				/>
 
